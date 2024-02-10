@@ -1,12 +1,12 @@
-## Hi there 👋
+# ChartEase
+We have developed a web-application that streamlines the charting process for nurses by automating the entry of repetitive information and integrating health data analytics functionalities. The application will aim to reduce the time spent on charting tasks while providing valuable insights from patient data to support clinical decision-making.
 
-<!--
+### Problem Statement
+Nurses spend a significant amount of time filling out repetitive information in patient charts, which could be better utilized in patient care activities. This issue not only impacts the efficiency of nursing staff but also leaves room for errors due to manual data entry. Additionally, there's potential to leverage health data analytics to derive insights from patient data, leading to better patient care outcomes.
 
-**Here are some ideas to get you started:**
+### Technologies We Used
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Challenges We Faced
+
+### What's Next for ChartEase?
+
