@@ -13,5 +13,5 @@ Kair incorporates a number of technologies, programming languages, and our own r
 ### Challenges We Faced
 We originally went with the name ChartEase, but after speaking to mentors we concluded that our product name did not properly recognize the value we are providing to patients receiving care from nurses. Kair recognizes the positive effects our platform has for both nurses and patients. 
 
-### What's Next for Kair?
+### The code in this repo: https://github.com/ChartEase/backend contains the completed project that can be compiled and run
 
